@@ -41,7 +41,7 @@
 termux-setup-storage
 pkg install nodejs
 cd /sdcard
-cd PUBLIC-BOT
+cd KillerBotz
 node main
 ```
 
